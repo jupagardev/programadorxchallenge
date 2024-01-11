@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <style charset="UTF-8">
         <style name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,12 +8,16 @@
         Document
     </style>
 </head>
-
-<h1>Conoce mi ciudad favorita</h1>
+<body>
+<title>Conoce mi ciudad favorita</title>
 <p>Descubre por qué amo esta ciudad</p>
 
-<h2><b>Descripción de la ciudad<b></b>
+<h2>Descripción de la ciudad</b>
 <p>Mi ciudad favorita es un lugar maravilloso para visitar. Está ubicada en un hermoso valle rodeado de montañas y cuenta con un clima agradable durante todo el año</p>
 
-<h2><b>Lugares de Interés</b></h2>
+<h2>Lugares de Interés</h2>
+<ul>
+<li>El Parque Central - Un lugar perfecto para relajarse y disfrutar de la naturaleza</li>
+<li>El Museo de Arte - Exhibe una impresionante colección de obras maestras</li>
+<li>La Playa - Ideal para amantes del sol y el mar</li>
 
